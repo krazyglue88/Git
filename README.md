@@ -321,7 +321,7 @@ SQL                       ```git branch SQL```
 Charles                   ```git branch Charles```
 Mobile testing            ```git branch Mobile_testing```
 ### 2. Запушить все ветки на внешний репозиторий
-```git push -u origin Postman Jmeter CheckLists Bug_Reports SQL Charles Mobile_testing```
+```git push -u origin Postman Jmeter CheckLists Bug_Reports SQL Charles Mobile_testing``` или ```git push --al```
 ### 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
 ```git checkout Bug_Reports```
 ```vim bug_reports_artifacts.txt``` 
