@@ -387,5 +387,6 @@ Mobile testing            ```git branch Mobile_testing```
 ```merge pull request```
 ```Confirm merge```
 ### 10. Синхронизировать Внешнюю и Локальную ветки Main
+```git checkout main```
 ```git pull```
 
