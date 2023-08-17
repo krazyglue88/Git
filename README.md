@@ -313,12 +313,12 @@ Actual result: Раздел с дополнительными ссылками �
 ```git pull```
 # Git_pt.2
 ### 1. На локальном репозитории сделать ветки для:
-Postman                   ```git branch Postman```
-Jmeter                    ```git branch Jmeter```
-CheckLists                ```git branch CheckLists```
-Bug Reports               ```git branch Bug_reports```
-SQL                       ```git branch SQL```
-Charles                   ```git branch Charles```
+Postman                   ```git branch Postman``` <br>
+Jmeter                    ```git branch Jmeter``` <br>
+CheckLists                ```git branch CheckLists``` <br>
+Bug Reports               ```git branch Bug_reports``` <br>
+SQL                       ```git branch SQL``` <br>
+Charles                   ```git branch Charles``` <br>
 Mobile testing            ```git branch Mobile_testing```
 ### 2. Запушить все ветки на внешний репозиторий
 ```git push -u origin Postman Jmeter CheckLists Bug_Reports SQL Charles Mobile_testing``` или ```git push --all```
