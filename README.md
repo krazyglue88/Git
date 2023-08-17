@@ -316,7 +316,7 @@ Actual result: Раздел с дополнительными ссылками �
 Postman                   ```git branch Postman``` <br>
 Jmeter                    ```git branch Jmeter``` <br>
 CheckLists                ```git branch CheckLists``` <br>
-Bug Reports               ```git branch Bug_reports``` <br>
+Bug Reports               ```git branch Bug_Reports``` <br>
 SQL                       ```git branch SQL``` <br>
 Charles                   ```git branch Charles``` <br>
 Mobile testing            ```git branch Mobile_testing```
