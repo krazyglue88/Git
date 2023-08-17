@@ -50,7 +50,7 @@
 ```git add preferences.json```
 ```git commit -m "add_preferences```
 ### 11. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
-```vim skills.json``` нажать ```Enter``` ```i``` написать:
+```vim skills.json``` нажать ```i``` написать:
 ```
 {
  "1": "Базовая теория",
