@@ -285,7 +285,7 @@ country you would like to visit: USA
 ```
 ```Esc``` ```:wq``` ```Enter```
 ### 12. Сделать коммит в одну строку.
-```git add . && git commit -m "add_preferences_skills"```
+```git add . && git commit -m "add_preferences_skills"``` или ```git commit -am "add_preferences_skills"```
 ### 13. Отправить сразу 2 файла на внешний репозиторий.
 ```git push```
 ### 14. На веб интерфейсе создать файл bug_report.txt.
