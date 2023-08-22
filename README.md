@@ -357,9 +357,9 @@ Mobile testing            ```git branch Mobile_testing```
 ```
 ```Esc``` ```:wq``` ```Enter```
 ### 4. Запушить структуру багрепорта на внешний репозиторий
-```git add bug_Reports_artifacts.txt```
-```git commit -m "add_BugReport_artifacts```
-```git push```
+```git add bug_reports_artifacts.txt```
+```git commit -m "add_BugReport_artifacts"```
+```git push  -u origin Bug_Reports```
 ### 5. Вмержить ветку Bag Reports в Main
 ```git checkout main```
 ```git merge Bug_Reports```
@@ -378,9 +378,9 @@ Mobile testing            ```git branch Mobile_testing```
 ```
 ```Esc``` ```:wq``` ```Enter```
 ### 8. Запушить структуру на внешний репозиторий
-```git add checkList.txt```
-```git commit -m "add_CheckList```
-```git push```
+```git add CheckList.txt```
+```git commit -m "add_CheckList"```
+```git push -u origin CheckLists```
 ### 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 ```Compare & pull request```
 ```Сreate pull request```
