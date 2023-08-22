@@ -359,7 +359,7 @@ Mobile testing            ```git branch Mobile_testing```
 ### 4. Запушить структуру багрепорта на внешний репозиторий
 ```git add bug_reports_artifacts.txt```
 ```git commit -m "add_BugReport_artifacts"```
-```git push  -u origin Bug_Reports```
+```git push -u origin Bug_Reports```
 ### 5. Вмержить ветку Bag Reports в Main
 ```git checkout main```
 ```git merge Bug_Reports```
