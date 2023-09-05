@@ -30,7 +30,7 @@
 ```Esc``` ```:wq``` ```Enter```
 ### 8. Отправить изменения на внешний репозиторий.
 ```git add new.json```
-```git commit _m "2nd_commit```
+```git commit -m "2nd_commit```
 ```git push```
 ### 9. Создать файл preferences.json
 ```touch preferences.json```
