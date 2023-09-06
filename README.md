@@ -8,8 +8,12 @@ ___
 ### Парсинг request body в json (raw) <br>
 ![Screenshot_51](https://github.com/krazyglue88/Git/assets/139983939/e6cef900-365c-453e-aea3-600b5d342b36)
 ___
+### Парсинг get запроса <br>
+![Screenshot_19](https://github.com/krazyglue88/Git/assets/139983939/dd40ae54-8052-4ef3-81d2-4ddd86e3b7f7)
+___
+
 ### Создание переменных <br>
-![Screenshot_52](https://github.com/krazyglue88/Git/assets/139983939/9bd68a4c-96a4-4c66-a02f-6bbe18831680)
+![Screenshot_14](https://github.com/krazyglue88/Git/assets/139983939/c191b237-bf1c-4869-a1ae-d25712620d92)
 ___
 ### Написание различных тестовых проверок <br>
 ![Screenshot_53](https://github.com/krazyglue88/Git/assets/139983939/015bf650-1b6d-48f4-b2fb-748d40e26ddc)
